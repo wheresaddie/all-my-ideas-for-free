@@ -17,17 +17,18 @@ source ideas.
 
 Ideas are stolen, ideas are copied, ideas are recopied, remixed. 
 Nothing is new, or is everything new. When we stop protecting our
-ideas they have the potential to grow beyond what we orgionally 
+ideas they have the potential to grow beyond what we originally 
 manifested. 
 
 There is a traditional tension between an artist idea and how an 
 artist uses the internet as a form of freely sharing what they 
-create and obtaining recognition. Beyond this, artist work has
-lived in an art world which interest lies in limited editions 
-and highly sought after artifacts, not ideas which are in the 
-public domain. 
-
-
+create, and using social meadia for obtaining recognition. 
+Beyond this, artist work has lived in an art world which 
+interest lies in limited editions and highly sought after 
+artifacts, not ideas which are avilable freely for and in 
+the public domain. Ultimately this is about contributing and
+distributing to a new contextualization of ideas, art and 
+culture through the use of open licenses, open ideas and open art. 
 
 
 
