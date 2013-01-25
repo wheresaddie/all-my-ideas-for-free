@@ -1,4 +1,4 @@
-all ideas are free dot com
+all ideas for free dot com
 =====================
 
 an experimental website which is constantly updated with all the ideas
