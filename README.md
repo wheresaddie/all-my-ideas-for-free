@@ -2,11 +2,11 @@ all ideas for free dot com
 =====================
 
 an experimental website which is constantly updated with all the ideas
-I have for art/design/code projects which I have not made, 
-all available for you to use for free
+I have, or others may add, for art/design/code projects which I have not made, 
+all available to use freely
 
-want to share alike with the www? you can tweet your ideas to me @whereaddie
-or add them to all-my-ideas-for-free/index.html
+want to share alike with the www? you can tweet your ideas to @whereaddie
+or add them yourself via git: all-my-ideas-for-free/index.html
 
 
 why am I doing this? 
