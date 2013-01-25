@@ -3,7 +3,7 @@ all ideas for free dot com
 
 an experimental website which is constantly updated with all the ideas
 I have for art/design/code projects which I have not made, 
-all available for you to use for free (license: CC-BY_NC).
+all available for you to use for free
 
 want to share alike with the www? you can tweet your ideas to me @whereaddie
 or add them to all-my-ideas-for-free/index.html
@@ -31,5 +31,11 @@ distributing to a new contextualization of ideas, art and
 culture through the use of open licenses, open ideas and open art. 
 
 
-
+how can I use these ideas?
+=====================
+ (license: CC-BY_NC).
+ 
+ some cred goes along way:
+ Addie Wagenknecht
+ placesiveneverbeen.com
 
