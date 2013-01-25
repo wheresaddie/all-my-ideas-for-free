@@ -6,9 +6,10 @@ I have for art/design/code projects which I have not made,
 all available for you to use for free (license: CC-BY_NC).
 
 want to share alike with the www? you can tweet your ideas to me @whereaddie
+or simple add them to all-my-ideas-for-free/index.html
 
 
-why am I giving you all my ideas for free? 
+why am I doing this? 
 =====================
 This is an experiment in what it means to be open source. Even more
 so this is an experiment in what it means to create open
